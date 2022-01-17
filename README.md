@@ -1,4 +1,4 @@
-#  Gatsby minimal starter
+# Gatsby minimal starter
 
 ## 🚀 Quick start
 
